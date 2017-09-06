@@ -1,0 +1,17 @@
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\obj\Debug\ManagerMachine.csprojResolveAssemblyReference.cache
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\obj\Debug\ManagerMachine.ProjectInstaller.resources
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\obj\Debug\ManagerMachine.csproj.GenerateResource.Cache
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\bin\Debug\ManagerMachine.exe.config
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\bin\Debug\ManagerMachine.exe
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\bin\Debug\ManagerMachine.pdb
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\bin\Debug\MongoDB.Bson.dll
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\bin\Debug\MongoDB.Driver.dll
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\bin\Debug\MongoDB.Driver.Legacy.dll
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\bin\Debug\MongoDB.Bson.xml
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\bin\Debug\MongoDB.Driver.xml
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\bin\Debug\MongoDB.Driver.Legacy.xml
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\obj\Debug\ManagerMachine.exe
+c:\users\tadriano\documents\visual studio 2017\Projects\Giovana\ManagerMachine\obj\Debug\ManagerMachine.pdb
